@@ -1,0 +1,18 @@
+:tada: TYPE(scope): Summary (=<50 characters)
+
+
+Why is this change necessary?
+  - Answer each question where necessary
+  - Bullet points help reading but paragraphs are also acceptable.
+  - =<80 characters per line
+  - Use imperative
+  - Be brief
+  - If overlong try splitting over multiple commits, e.g 1 file per commit
+
+How does it address the issue?
+  - N/A
+
+What side effects does this change have?
+  - N/A
+  
+  
