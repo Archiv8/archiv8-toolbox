@@ -3,8 +3,10 @@
 ### Date 23/04/2019
 ### Last Update 28/04/2020
 
-# LINE ENDINGS
-# ============
+
+
+# TEXT FILES
+# ==========
 
 ## Default behavior for cases when users don't have core.autocrlf set
 ## ------------------------------------------------------------------
@@ -19,7 +21,8 @@
 
 * text whitespace=blank-at-eol,blank-at-eof,space-before-tab,-indent-with-non-tab,tab-in-indent,cr-at-eol,tabwidth=2
 
-
+# BINARY FILES
+# ============
 
 ## Binary files that need to the explicitly declared
 ## -------------------------------------------------
@@ -28,3 +31,5 @@
 *.jpg binary
 *.png binary
 *.tiff binary
+
+safecrlf=true 
