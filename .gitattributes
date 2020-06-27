@@ -14,6 +14,13 @@
 # Text files that need to be explicitly declared
 ## ----------------------------------------------
 
+# WHITESPACE
+# ==========
+
+* text whitespace=blank-at-eol,blank-at-eof,space-before-tab,-indent-with-non-tab,tab-in-indent,cr-at-eol,tabwidth=2
+
+
+
 ## Binary files that need to the explicitly declared
 ## -------------------------------------------------
 
@@ -21,8 +28,3 @@
 *.jpg binary
 *.png binary
 *.tiff binary
-
-# WHITESPACE
-# ==========
-
-* text whitespace=blank-at-eol,blank-at-eof,space-before-tab,-indent-with-non-tab,tab-in-indent,cr-at-eol,tabwidth=2
