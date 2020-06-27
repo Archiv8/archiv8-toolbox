@@ -9,12 +9,10 @@
 ## Default behavior for cases when users don't have core.autocrlf set
 ## ------------------------------------------------------------------
 
-* text=auto eol=lf
+* text=auto
 
 # Text files that need to be explicitly declared
 ## ----------------------------------------------
-
-
 
 ## Binary files that need to the explicitly declared
 ## -------------------------------------------------
