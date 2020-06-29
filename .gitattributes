@@ -1,7 +1,7 @@
 ### Archiv8 gitattributes
-### Version 0.1.0
+### Version 0.1.1
 ### Date 23/04/2019
-### Last Update 28/04/2020
+### Last Update 29/06/2020
 
 
 
@@ -13,8 +13,10 @@
 
 * text=auto
 
-# Text files that need to be explicitly declared
+# Text file types that need to be explicitly declared
 ## ----------------------------------------------
+
+*.svg text
 
 # WHITESPACE
 # ==========
@@ -24,12 +26,15 @@
 # BINARY FILES
 # ============
 
-## Binary files that need to the explicitly declared
-## -------------------------------------------------
+## Binary files that need to the explicitly declared.  No changes should be made.
+## ------------------------------------------------------------------------------
 
 ### Images
 *.jpg binary
 *.png binary
 *.tiff binary
 
-safecrlf=true 
+# CHECK CHANGES TO LINE ENDINGS REVERSABLE
+# ========================================
+
+safecrlf=true
