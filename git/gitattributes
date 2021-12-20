@@ -1,0 +1,40 @@
+### Archiv8 gitattributes
+### Version 0.1.1
+### Date 23/04/2019
+### Last Update 29/06/2020
+
+
+
+# TEXT FILES
+# ==========
+
+## Default behavior for cases when users don't have core.autocrlf set
+## ------------------------------------------------------------------
+
+* text=auto
+
+# Text file types that need to be explicitly declared
+## ----------------------------------------------
+
+*.svg text
+
+# WHITESPACE
+# ==========
+
+* text whitespace=blank-at-eol,blank-at-eof,space-before-tab,-indent-with-non-tab,tab-in-indent,cr-at-eol,tabwidth=2
+
+# BINARY FILES
+# ============
+
+## Binary files that need to the explicitly declared.  No changes should be made.
+## ------------------------------------------------------------------------------
+
+### Images
+*.jpg binary
+*.png binary
+*.tiff binary
+
+# CHECK CHANGES TO LINE ENDINGS REVERSIBLE
+# ========================================
+
+safecrlf=true
