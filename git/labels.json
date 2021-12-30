@@ -108,6 +108,12 @@
     "description": "This issue is stale. It has been overtaken by other code changes. What should happen next?"
   },
   {
+    "name": "status: outdated :satellite:",
+    "color": "1D76DB",
+    "aliases": [],
+    "description": "Package is not in sync with the latest upstream release"
+  },
+  {
     "name": "status: testing :syringe:",
     "color": "aa00ff",
     "aliases": [],
@@ -130,12 +136,6 @@
     "color": "1D76DB",
     "aliases": [],
     "description": "Something isn't working"
-  },
-  {
-    "name": "type: outdated :satellite:",
-    "color": "1D76DB",
-    "aliases": [],
-    "description": "Package is not in sync with the latest upstream release"
   },
   {
     "name": "type: request :gift:",
