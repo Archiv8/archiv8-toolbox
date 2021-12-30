@@ -30,6 +30,24 @@
     "description": "Changes failed in required tests"
   },
   {
+    "name": "element: form :scroll:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Changes or improvements to a form"
+  },
+  {
+    "name": "element: doc :ledger:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Requests for improvements or additions to documentation"
+  },
+  {
+    "name": "element: package :gift:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "This issue is about package"
+  },
+  {
     "name": "priority: CRITICAL :clock1:",
     "color": "ffaa00",
     "aliases": [],
@@ -60,6 +78,18 @@
     "description": "Issue has been closed"
   },
   {
+    "name": "status: new :ear:",
+    "color": "aa00ff",
+    "aliases": [],
+    "description": "This is a new issue"
+  },
+  {
+    "name": "status: old :face_exhaling:",
+    "color": "aa00ff",
+    "aliases": [],
+    "description": "This issue is old. What should happen next?"
+  },
+  {
     "name": "status: progressing :construction_worker:",
     "color": "aa00ff",
     "aliases": [],
@@ -70,6 +100,12 @@
     "color": "aa00ff",
     "aliases": [],
     "description": "Changes are being reviewed"
+  },
+  {
+    "name": "status: stale :ghost:",
+    "color": "aa00ff",
+    "aliases": [],
+    "description": "This issue is stale. It has been overtaken by other code changes. What should happen next?"
   },
   {
     "name": "status: testing :syringe:",
@@ -96,28 +132,10 @@
     "description": "Something isn't working"
   },
   {
-    "name": "type: doc :ledger:",
-    "color": "1D76DB",
-    "aliases": [],
-    "description": "Improvements or additions to documentation"
-  },
-  {
-    "name": "type: form :scroll:",
-    "color": "1D76DB",
-    "aliases": [],
-    "description": "Changes or improvements to a form"
-  },
-  {
     "name": "type: outdated :satellite:",
     "color": "1D76DB",
     "aliases": [],
     "description": "Package is not in sync with the latest upstream release"
-  },
-  {
-    "name": "type: package :gift:",
-    "color": "1D76DB",
-    "aliases": [],
-    "description": "Changes or improvements to a package"
   },
   {
     "name": "type: request :gift:",
