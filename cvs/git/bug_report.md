@@ -1,4 +1,4 @@
-## Before filing an issue please verify that:
+# Before filing an issue please verify that
 
 - [] The system the package is being installed / built on is fully up to date.
 - [] A web search has been performed and it is unlikely the issue lies with the upstream sources
@@ -7,9 +7,11 @@
 ## Information about the bug
 
 ### Expected behavior
+
 Please give a clear and concise description of what was expected to happen.
 
 ### What actually happened
+
 Please give a clear and concise description of what actually happened.
 
 ### How to reproduce the bug

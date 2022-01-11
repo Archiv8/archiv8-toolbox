@@ -49,85 +49,85 @@
   },
   {
     "name": "priority: CRITICAL :clock1:",
-    "color": "ffaa00",
+    "color": "FFAA00",
     "aliases": [],
     "description": "Issue needs addressing as soon as possible"
   },
   {
     "name": "priority: LOW :ok_hand:",
-    "color": "00ff00",
+    "color": "00FF00",
     "aliases": [],
     "description": "Issue has the lowest priority"
   },
   {
     "name": "priority: NORMAL :calendar:",
-    "color": "ffff00",
+    "color": "FFFF00",
     "aliases": [],
     "description": "Issue can wait but needs addressing before those marked as URGENT and CRITICAL"
   },
   {
     "name": "priority: URGENT :bomb:",
-    "color": "ff0000",
+    "color": "FF0000",
     "aliases": [],
     "description": "Issue urgently needs addressing"
   },
   {
     "name": "status: closed :door:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Issue has been closed"
   },
   {
     "name": "status: new :ear:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "This is a new issue"
   },
   {
     "name": "status: old :face_exhaling:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "This issue is old. What should happen next?"
   },
   {
     "name": "status: progressing :construction_worker:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Work is progressing"
   },
   {
     "name": "status: reviewing :eyeglasses:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Changes are being reviewed"
   },
   {
     "name": "status: stale :ghost:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "This issue is stale. It has been overtaken by other code changes. What should happen next?"
   },
   {
     "name": "status: outdated :satellite:",
-    "color": "1D76DB",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Package is not in sync with the latest upstream release"
   },
   {
     "name": "status: testing :syringe:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Changes are being tested"
   },
   {
     "name": "status: triaging :hospital:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Issue is being triaged"
   },
   {
     "name": "status: upstream notified :speedboat:",
-    "color": "aa00ff",
+    "color": "AA00FF",
     "aliases": [],
     "description": "Working with upstream"
   },
@@ -157,37 +157,37 @@
   },
   {
     "name": "wait: more info :hourglass:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "Waiting for more information"
   },
   {
     "name": "wait: need help :loudspeaker:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "Help is needed to fix the issue"
   },
   {
     "name": "wait: review :eyeglasses:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "Help is needed to fix the issue"
   },
   {
     "name": "wait: test :syringe:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "The fix for this issue is waiting to be reviewed"
   },
   {
     "name": "wait: triage :hospital:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "This issue is waiting to be triaged"
   },
   {
     "name": "wait: upstream :speedboat:",
-    "color": "00ffff",
+    "color": "0000FF",
     "aliases": [],
     "description": "Waiting for information from upstream"
   }

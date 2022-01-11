@@ -1,1 +1,0 @@
-﻿community contributions security templates help arch-linux unofficial conduct guidelines arch-linux-pkgbuild arch-linux-package archlinux-pkgbuild arch-linux-makepkg arch-linux-user-repo archlinux-user archlinux-build-package arch-linux-packaging arch-linux-install arch-linux-install-package
