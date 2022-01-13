@@ -1,5 +1,47 @@
 [
   {
+    "name": "element: app :computer:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem or suggestion is associated with an Archiv8 application"
+  },
+  {
+    "name": "element: com :family:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem is associated with the community"
+  },
+  {
+    "name": "element: doc :ledger:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem or suggestion is associated with the documentation"
+  },
+  {
+    "name": "element: form :scroll:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Issue or suggestion is associated with a form"
+  },
+  {
+    "name": "element: other :question:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem or suggestion  is associated with something not covered elsewhere"
+  },
+  {
+    "name": "element: package :gift:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem or improvement is associated with a package"
+  },
+  {
+    "name": "element: src :speedboat:",
+    "color": "0E8A16",
+    "aliases": [],
+    "description": "Problem may be associated with the upstream source code source code"
+  },
+  {
     "name": "err: dupe :loop:",
     "color": "B60205",
     "aliases": [],
@@ -28,24 +70,6 @@
     "color": "B60205",
     "aliases": [],
     "description": "Changes failed in required tests"
-  },
-  {
-    "name": "element: form :scroll:",
-    "color": "0E8A16",
-    "aliases": [],
-    "description": "Changes or improvements to a form"
-  },
-  {
-    "name": "element: doc :ledger:",
-    "color": "0E8A16",
-    "aliases": [],
-    "description": "Requests for improvements or additions to documentation"
-  },
-  {
-    "name": "element: package :gift:",
-    "color": "0E8A16",
-    "aliases": [],
-    "description": "This issue is about package"
   },
   {
     "name": "priority: CRITICAL :clock1:",
@@ -132,19 +156,25 @@
     "description": "Working with upstream"
   },
   {
-    "name": "type: bug :bug:",
+    "name": "type: issue :bug:",
     "color": "1D76DB",
     "aliases": [],
     "description": "Something isn't working"
   },
+    {
+    "name": "type: outdated :placard:",
+    "color": "1D76DB",
+    "aliases": [],
+    "description": "Package is not in sync with the latest upstream release"
+  },
   {
-    "name": "type: request :gift:",
+    "name": "type: request :open_hands:",
     "color": "1D76DB",
     "aliases": [],
     "description": "A request"
   },
   {
-    "name": "type: security :eyes:",
+    "name": "type: sec :eyes:",
     "color": "1D76DB",
     "aliases": [],
     "description": "There is a security issue"
