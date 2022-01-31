@@ -132,12 +132,6 @@
     "description": "This issue is stale. It has been overtaken by other code changes. What should happen next?"
   },
   {
-    "name": "status: outdated :satellite:",
-    "color": "AA00FF",
-    "aliases": [],
-    "description": "Package is not in sync with the latest upstream release"
-  },
-  {
     "name": "status: testing :syringe:",
     "color": "AA00FF",
     "aliases": [],
