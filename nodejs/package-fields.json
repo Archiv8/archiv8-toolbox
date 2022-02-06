@@ -1,0 +1,126 @@
+{
+  "name": "archiv8",
+  "description": "Website for Archiv8. Custom packages to build and install software in an Arch Linux environment.",
+  "keywords": [
+    "Arch Linux",
+    "custom packages",
+    "PKGBUILD",
+    "unofficial packages",
+    "makepkg",
+    "pacman"
+  ],
+  "homepage": "https://archiv8.github.io",
+  "repository": {
+    "type": "github",
+    "url": "Archiv8/archiv8-io-src"
+  },
+  "version": "0.0.1",
+  "license": "(CC-BY-SA-4.0 OR MIT)",
+  "author": {
+    "name": "Ross Clark",
+    "email": "conact@artisteducator.com",
+    "url": "https://archiv8.github.io"
+  },
+  "contributors": [
+    "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "http://example.com/donate"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "bugs": {
+    "url": "https://github.com/Archiv8/archiv8-io-src/issues",
+    "email": "contact@artisteducator.com"
+  },
+  "bin": {
+    "my-bin": "./dist/my-bin.js"
+  },
+  "cpu": [
+    "x64",
+    "ia32",
+    "arm64"
+  ],
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0",
+    "yarn": "^0.13.0"
+  },
+  "files": [
+    "dist/**/*",
+    "lib/**/*"
+  ],
+  "installConfig": {
+    "hoistingLimits": "none",
+    "selfReferences": true
+  },
+  "languageName": "node",
+  "main": "./sources/index.js",
+  "module": "./sources/index.mjs",
+  "os": [
+    "linux",
+    "darwin",
+    "win32"
+  ],
+  "preferUnplugged": false,
+  "private": "false",
+  "publishConfig": {
+    "access": "public",
+    "bin": "./build/bin.js",
+    "browser": "./build/browser.js",
+    "executableFiles": [
+      "./dist/shim.js"
+    ],
+    "main": "./build/index.js",
+    "module": "./build/index.mjs",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "type": "commonjs",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "next": "^12.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependenciesMeta": {
+    "fsevents": {
+      "built": false,
+      "optional": false,
+      "unplugged": true
+    }
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "peerDependenciesMeta": {
+    "react-dom": {
+      "optional": true
+    }
+  },
+  "resolutions": {
+    "relay-compiler": "3.0.0",
+    "webpack/memory-fs": "0.4.1",
+    "@babel/core/json5": "2.1.0",
+    "@babel/core/@babel/generator": "7.3.4",
+    "@babel/core@npm:7.0.0/@babel/generator": "7.3.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
