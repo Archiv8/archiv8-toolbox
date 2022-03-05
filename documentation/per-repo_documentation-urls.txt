@@ -1,0 +1,67 @@
+[cc-badge]: https://img.shields.io/badge/License-CC%20by%20SA%204.0.0-informational.svg
+[cc-large-badge]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
+[cla-badge]: https://img.shields.io/badge/Adopted-Contributor%20%20License%20Agreement-brightgreengreen
+[changelog-badge]: https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-informational
+[commits-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg
+[covenant-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.0.0-informational.svg
+[mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
+[semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-compat]: http://creativecommons.org/compatiblelicenses
+[cc-dev-consider]: https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors
+[cc-policies]: http://creativecommons.org/policies
+[cc-pub-consider]: https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees
+[cc-pub-domain]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+[cc-terms]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc]: http://creativecommons.org/
+
+[change]: https://keepachangelog.com
+[commits]: https://conventionalcommits.org
+[contrib-covenant]: https://osdn.net/projects/pkgbrowser/
+[mit]: https://opensource.org/licenses/MIT
+[semver]: https://semver.org
+
+[arch-aur]: https://aur.archlinux.org/
+[arch]: https://www.archlinux.org/
+[arch-pkgs]: https://archlinux.org/packages/
+[arch-wiki]: https://wiki.archlinux.org
+
+[a8-cc-by-sa]: https://archiv8.github.io/licences/creative-commons
+[a8-cla]: https://archiv8.github.io/licenses/contributor-license-agreement
+[a8-commits]: https://archiv8.github.io/contributing/style-guides/conventional-commits
+[a8-changelog]: https://archiv8.github.io/contributing/style-guides/conventional-changelog
+[a8-conduct]: https://archiv8.github.io/community/code-of-conduct
+[a8-contrib-covenant]: https://archiv8.github.io/contributing/contributor-covenant
+[a8-contrib-people]: https://github.com/Archiv8/pkgbrowser/people
+[a8-mit]: https://archiv8.github.io/licences/mit
+[a8-cc-by-sa]: https://archiv8.github.io/licences/creative-commons
+[a8-pkg-src]: https://github.com/Archiv8/pkgbrowser
+[a8-projects]: https://github.com/Archiv8
+[a8]: https://archiv8.github.io/
+
+[ups-pkg]: https://osdn.net/projects/pkgbrowser/
+
+[archwiki-pkg-guidelines]: https://wiki.archlinux.org/title/Arch_package_guidelines
+[archwiki-aur]: https://wiki.archlinux.org/title/Arch_User_Repository
+[archwiki-aur-tug]: https://wiki.archlinux.org/title/AUR_Trusted_User_Guidelines
+[archwiki-buildchroot]: https://wiki.archlinux.org/title/DeveloperWiki:Building_in_a_clean_chroot
+[archwiki-chroot]: https://wiki.archlinux.org/title/Chroot
+[archwiki-local-repo]: https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Custom_local_repository
+[archwiki-proot]: https://wiki.archlinux.org/title/PRoot
+
+[aur]: https://aur.archlinux.org/
+
+[aurutils-github]: https://github.com/AladW/aurutils
+[aurutils-pkg-aur]: https://aur.archlinux.org/packages/aurutils
+
+[aurutils-pkg-a8]: https://github.com/Archiv8/aurutils
+
+[fakechroot-github]: https://github.com/dex4er/fakechroot
+[fakechroot-pkg-aur]: https://archlinux.org/packages/extra/x86_64/fakechroot/
+[fakechroot-wiki]: https://github.com/dex4er/fakechroot/wiki
+
+[proot-github]: https://github.com/proot-me/proot
+[proot-help-docs]: https://proot-me.github.io/
+[proot-pkg-aur]: https://aur.archlinux.org/packages/proot/
+[proot-pkg-a8]: https://aur.archlinux.org/packages/proot/
