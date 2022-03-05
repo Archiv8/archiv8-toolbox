@@ -6,7 +6,7 @@
     "description": "Problem or suggestion is associated with an Archiv8 application"
   },
   {
-    "name": "element: com :family:",
+    "name": "element: community :family:",
     "color": "0E8A16",
     "aliases": [],
     "description": "Problem is associated with the community"
@@ -102,7 +102,7 @@
     "description": "Issue has been closed"
   },
   {
-    "name": "status: new :ear:",
+    "name": "status: new :phone:",
     "color": "AA00FF",
     "aliases": [],
     "description": "This is a new issue"
@@ -155,7 +155,19 @@
     "aliases": [],
     "description": "Something isn't working"
   },
-    {
+  {
+    "name": "type: issue :bug:",
+    "color": "1D76DB",
+    "aliases": [],
+    "description": "Something isn't working"
+  },
+  {
+    "name": "type: dependencies :compass:",
+    "color": "1D76DB",
+    "aliases": [],
+    "description": "Pull requests that update a dependency file"
+  },
+  {
     "name": "type: outdated :placard:",
     "color": "1D76DB",
     "aliases": [],
