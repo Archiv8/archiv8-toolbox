@@ -87,13 +87,13 @@
     "name": "priority: NORMAL :calendar:",
     "color": "FFFF00",
     "aliases": [],
-    "description": "Issue can wait but needs addressing before those marked as URGENT and CRITICAL"
+    "description": "Issue can wait but needs addressing before those marked as LOW"
   },
   {
     "name": "priority: URGENT :bomb:",
     "color": "FF0000",
     "aliases": [],
-    "description": "Issue urgently needs addressing"
+    "description": "Issue urgently needs addressing. It has the highest priority"
   },
   {
     "name": "status: closed :door:",
@@ -144,7 +144,7 @@
     "description": "Issue is being triaged"
   },
   {
-    "name": "status: upstream notified :speedboat:",
+    "name": "status: upstream notified :potable_water:",
     "color": "AA00FF",
     "aliases": [],
     "description": "Working with upstream"
@@ -186,44 +186,44 @@
     "description": "There is a security issue"
   },
   {
-    "name": "type: upstream :speedboat:",
+    "name": "type: upstream :potable_water:",
     "color": "1D76DB",
     "aliases": [],
     "description": "Issue is upstream"
   },
   {
     "name": "wait: more info :hourglass:",
-    "color": "0000FF",
+    "color": "00FFFF",
     "aliases": [],
     "description": "Waiting for more information"
   },
   {
     "name": "wait: need help :loudspeaker:",
-    "color": "0000FF",
+    "color": "00FFFF",
     "aliases": [],
     "description": "Help is needed to fix the issue"
   },
   {
     "name": "wait: review :eyeglasses:",
-    "color": "0000FF",
+    "color": "00FFFF",
     "aliases": [],
     "description": "Help is needed to fix the issue"
   },
   {
     "name": "wait: test :syringe:",
-    "color": "0000FF",
+    "color": "00FFFF",
     "aliases": [],
     "description": "The fix for this issue is waiting to be reviewed"
   },
   {
     "name": "wait: triage :hospital:",
-    "color": "0000FF",
+    "color": "00FFFF",
     "aliases": [],
     "description": "This issue is waiting to be triaged"
   },
   {
-    "name": "wait: upstream :speedboat:",
-    "color": "0000FF",
+    "name": "wait: upstream :potable_water:",
+    "color": "00FFFF",
     "aliases": [],
     "description": "Waiting for information from upstream"
   }
