@@ -147,7 +147,7 @@
     "name": "status: upstream notified :potable_water:",
     "color": "AA00FF",
     "aliases": [],
-    "description": "Working with upstream"
+    "description": "Upstream has been notified of this issue"
   },
   {
     "name": "type: issue :bug:",
@@ -207,13 +207,13 @@
     "name": "wait: review :eyeglasses:",
     "color": "00FFFF",
     "aliases": [],
-    "description": "Help is needed to fix the issue"
+    "description": "The fix for this issue is waiting to be reviewed"
   },
   {
     "name": "wait: test :syringe:",
     "color": "00FFFF",
     "aliases": [],
-    "description": "The fix for this issue is waiting to be reviewed"
+    "description": "The fix for this issue is waiting to be tested"
   },
   {
     "name": "wait: triage :hospital:",
