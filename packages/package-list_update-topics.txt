@@ -1,0 +1,98 @@
+gh repo-topic add Archiv8/acorn arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/add-gitignore arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/aic94xx-firmware arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/aurutils arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/bottles arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/chromaprint-fftw arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/czkawka arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/davs2 arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/deadbeef arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/gh repo-topic add Archiv8/decklink-sdk arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/drupal-console-launcher arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/drush-launcher arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/dupeguru arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/eslint arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/eslint-plugin-react arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/fathom-web arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/findbrokenpkgs arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/gcstar arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/github-label-sync arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/google-chrome arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/google-java-format arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/java-atk-wrapper arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/jdupes arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/jsdoc arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/ldcad arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/ldraw-parts-library arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/lerna arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/lib32-x265 arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/netbeans arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/patool arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/perl-cddb-file arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/perl-mp3-tag arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/perl-net-freedb arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/perl-ogg-vorbis-header-pureperl arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/pkgbrowser arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/python-cysystemd arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/python-hsaudiotag3k arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/python-polib arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/remark-preset-lint-consistent arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/remark-preset-lint-markdown-style-guide arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/remark-preset-lint-recommended arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/remark-preset-lint-unsmudged arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/stackedit arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/synfig-core arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/synfig-docs arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/synfig-etl arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/synfig-studio arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/vmaf arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+
+gh repo-topic add Archiv8/x265 arch-linux arch-linux-build-package arch-linux-install arch-linux-install-package arch-linux-makepkg arch-linux-package arch-linux-packaging arch-linux-pkgbuild arch-linux-unofficial arch-linux-user aurutils
+

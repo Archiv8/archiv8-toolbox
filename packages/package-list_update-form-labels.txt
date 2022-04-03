@@ -1,0 +1,98 @@
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/acorn
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/add-gitignore
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/aic94xx-firmware
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/aurutils
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/bottles
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/chromaprint-fftw
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/czkawka
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/davs2
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/deadbeef
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/decklink-sdk
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/drupal-console-launcher
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/drush-launcher
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/dupeguru
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/eslint
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/eslint-plugin-react
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/fathom-web
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/findbrokenpkgs
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/gcstar
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/github-label-sync
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/google-chrome
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/google-java-format
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/java-atk-wrapper
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/jdupes
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/jsdoc
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/ldcad
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/ldraw-parts-library
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/lerna
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/lib32-x265
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/netbeans
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/patool
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/perl-cddb-file
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/perl-mp3-tag
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/perl-net-freedb
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/perl-net-perl-ogg-vorbis-header-pureperl
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/pkgbrowser
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/python-cysystemd
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/python-hsaudiotag3k
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/python-polib
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/remark-preset-lint-consistent
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/remark-preset-lint-markdown-style-guide
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/remark-preset-lint-recommended
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/remark-preset-lint-unsmudged
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/stackedit
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/synfig-core
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/synfig-docs
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/synfig-etl
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/synfig-studio
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/vmaf
+
+github-label-sync --access-token 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 --labels /home/ross/Development/VCS/Archiv8/archiv8-toolbox/cvs/git/archiv8-labels.json Archiv8/x265
+
