@@ -1,0 +1,28 @@
+# Archiv8 .shellcheckrc
+# Version 0.1.1
+# Date 23/04/2019
+# Last Update 16/06/2022
+
+
+## ========================================================================== ##
+## Repository rules for ShellCheck, https://www.shellcheck.net/, for scanning 
+## PKGBUILD and other related scripts.  Add per file rules near the top of file
+## as after shebang
+## ========================================================================== ##
+
+# Set shell to bash
+# ---------------------------------------------------------------------------- #
+shell=bash
+
+## Disable various checks that commonly return false positives when in use
+## --------------------------------------------------------------------------- #
+
+# SC2034, foo appears unused. Verify it or export it
+# See https://www.shellcheck.net/wiki/SC2034
+# ---------------------------------------------------------------------------- #
+disable=SC2034
+
+## SC2154, var is referenced but not assigned
+## See https://www.shellcheck.net/wiki/SC2154
+## --------------------------------------------------------------------------- #
+disable=SC2154

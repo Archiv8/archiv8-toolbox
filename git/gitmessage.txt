@@ -1,0 +1,40 @@
+:tada: TYPE: Summary (=<50 characters)
+# --------------(=<50 characters)--------------->
+
+# -----------------------------(=<80 characters)------------------------------->
+# HEADING
+Use an emoji, if desired, to help visually identify the commit subject
+Use an issue an commit type to assist with subject identification.
+Summarize the the contents of the commit
+Limit content to 1 line containing 50 characters
+
+# Create a blank line between the HEADING and MAIN TEXT
+
+MAIN TEXT
+What does the commit address?
+- Be brief and descriptive
+ - =<80 characters per line
+ - One commit per issue
+  - If overlong split changes across multiple commits
+ - Use imperative
+- Answer each question where needed
+- Bullet points help reading but paragraphs are also acceptable.
+- Links
+ - Link / links to an related issue (if exists)
+ - Link to pull request (if exists)
+ - Link to fork (if exists)
+
+How does it address the issue?
+  - (if applicable)
+
+What side effects does this change have?
+  - (if applicable)
+
+# FILE LIST
+#    Usually generated on commit, eg:
+#    On branch master
+#    Your branch is up to date with 'origin/main'.
+#
+#    Changes to be committed:
+#          new file:   README.md
+# -----------------------------(=<80 characters)------------------------------->

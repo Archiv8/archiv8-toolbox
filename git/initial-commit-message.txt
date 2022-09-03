@@ -1,0 +1,6 @@
+:tada: INIT: Initialize repository
+
+On branch main
+- Changes to be committed:
+  - new file:   .SRCINFO
+  - new file:   PKGBUILD
